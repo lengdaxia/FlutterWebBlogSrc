@@ -20,9 +20,8 @@ delopy web app
 
 > flutter build web --release 
 
+> push ./build/web dir to https://github.com/marlon2brando/FlutterWebBlog
 
-git repo:
-https://github.com/marlon2brando/FlutterWebBlog
 
 flutter web blog preview url:
 https://marlon2brando.github.io/FlutterWebBlog/index.html
